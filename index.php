@@ -64,7 +64,12 @@
                     </div>
                 </div>
             </div>
-            <div class="section" data-anchor="slide4">4</div>
+            <div class="section" id="section-4" data-anchor="farewell">
+                <div class="content" style="background-color: #fff;">
+                    <div class="return-flag r b"></div>
+                    <div class="logo"><img src="media/images/Logotipo.jpg"></div>
+                </div>
+            </div>
         </div>
     </main>
     <script src="js/fullpage.min.js"></script>
